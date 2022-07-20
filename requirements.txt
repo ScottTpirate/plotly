@@ -1,6 +1,6 @@
-streamlit
+streamlit==x.x.x
 gsheetsdb==x.x.x
-pandas
-numpy
-altair
-plotly
+pandas==x.x.x
+numpy==x.x.x
+altair==x.x.x
+plotly==x.x.x
