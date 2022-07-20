@@ -1,6 +1,6 @@
-streamlit==x.x.x
+numpy==1.17.4
 gsheetsdb==x.x.x
-pandas==x.x.x
-numpy==x.x.x
-altair==x.x.x
-plotly==x.x.x
+pandas==1.0.5
+altair==4.2.0
+plotly==5.9.0
+streamlit==1.11.0
