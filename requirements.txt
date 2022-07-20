@@ -1,0 +1,6 @@
+streamlit
+gsheetsdb==x.x.x
+pandas
+numpy
+altair
+plotly
