@@ -3,4 +3,4 @@ gsheetsdb==x.x.x
 pandas==1.0.5
 altair==4.2.0
 plotly==5.9.0
-streamlit==1.11.0
+streamlit
