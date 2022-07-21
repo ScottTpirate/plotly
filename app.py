@@ -74,6 +74,7 @@ fig = px.scatter(
     x='price', y='supply',
     color="minted",
     size='total_stars',
+    hover_data=['h'],
     width=1800,
     height=1400)
 
