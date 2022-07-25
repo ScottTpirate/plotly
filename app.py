@@ -76,7 +76,8 @@ fig = px.scatter(
     size='total_stars',
     hover_data=['h'],
     width=1800,
-    height=1400)
+    height=1400,
+    log_x=True)
 
 
 st.plotly_chart(fig, use_container_width=True)
