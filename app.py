@@ -77,7 +77,8 @@ fig = px.scatter(
     hover_data=['h'],
     width=1800,
     height=1400,
-    log_x=True)
+    log_x=True,
+    log_y=True)
 
 
 st.plotly_chart(fig, use_container_width=True)
